@@ -1,5 +1,5 @@
-#Partner1: Pranav
-#Partner2: Vive
+#Partner1: Pranav Thammana
+#Partner2: Vivek Mittal-Henkle
 ##############
 #Assignment name: github practice
 def getNRandom(n):
