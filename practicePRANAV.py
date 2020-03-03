@@ -1,5 +1,5 @@
 #Partner1: Pranav
-#Partner2: Vive
+#Partner2: Vivek
 ##############
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
