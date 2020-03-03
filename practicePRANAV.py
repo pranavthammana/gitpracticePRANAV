@@ -1,7 +1,7 @@
 #Partner1: Pranav Thammana
 #Partner2: Vivek Mittal-Henkle
 ##############
-#Assignment name: github practice
+#Assignment name: github practice - 3/3/20
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
     pass
