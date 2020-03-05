@@ -8,7 +8,7 @@ def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
 	ints = []
 	for i in range(int(n)):
-		ints.append(rand.randint(0, 10))
+		ints.append(rand.randint(1, 10))
 	return ints
 
 def multiplyRandom(numbers):
