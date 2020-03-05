@@ -10,7 +10,6 @@ def getNRandom(n):
 	for i in range(int(n)):
 		ints.append(rand.randint(0, 10))
 	return ints
-print(getNRandom(2))
 
 def multiplyRandom(numbers):
 	'''takes in a list of n numbers and returns the product of the numbers'''
