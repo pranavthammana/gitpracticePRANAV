@@ -20,8 +20,7 @@ def multiplyRandom(numbers):
 	return product
 
 def main():
-	#print(multiplyRandom(getNRandom(10)))
-	pass
+	print(multiplyRandom(getNRandom(10)))
 
 if __name__ == "__main__":
 	main()
